@@ -105,6 +105,11 @@ const technologies = [
     name: "Augmented",
     icon: backend,
   },
+  {
+    name: "Augmented",
+    icon: redux,
+  },
+  
  
 ];
 
@@ -141,19 +146,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Hello,My Name is Anany Tewari.I am from Lucknow, currently pursusing BTech from Kiet Group of Institutions.I did my schooling from CMS Kanpur road. ",
+      "INTRODUCTION -Hello,My Name is Anany Tewari.I am from Lucknow, currently pursusing BTech from Kiet Group of Institutions.I did my schooling from CMS Kanpur road. My goal is to get a job in a reputed company and to achieve a good position where I can build my career and help the organization too. My hobbies are playing football. ",
   
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "SKILLS-Web Developemnt.AR/VR developer . Languages known - html , css , javascript,Node.js, Expressjs, mongoDB,C#.",
+      "SKILLS - Web Developemnt(node.js, Express.js,mongoDB). AR/VR developer (Unity,C#,Vuforia,Webgl, Ar Core).  Experience -Frontend intern techmihirnaik.in company , Summer Internship on Web and Mobile Application Development . Management head in Vpaksh(college club). " ,
    
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "Future goal is to become a software developer.",
+      "ACHIEVEMENTS-  2⭐codechef (Max:1416) Solved-200+ questions on leetcode . Finalist in rakuten hackthon . 6th runner-up in hackathon . Winner in multiple skit performances(galgotias , prastuti). Participated in multiple hackthons and contributed in many open-source projects. ",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
@@ -162,7 +167,7 @@ const projects = [
   {
     name: "#3d Animals",
     description:
-      "AR based learning which helps to enhance the learning of the children by learnign through the 3d model with voice assistant.",
+      "AR based learning which helps to enhance the learning of  childrens by learning through the 3d model with voice assistant.",
     tags: [
       {
         name: "Unity",
@@ -212,7 +217,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/strangecod/Ar-Shopping",
+    source_code_link: "https://643d808d1694b518fe41d105--courageous-lebkuchen-c18142.netlify.app/ ",
   },
   {
     name: "Social-Media-Monetoring System",

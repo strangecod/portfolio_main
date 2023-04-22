@@ -22,7 +22,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  
+
   threejs,
 } from "../assets";
 
@@ -54,7 +54,7 @@ const services = [
     title: "Augmented Reality",
     icon: backend,
   },
-  
+
   {
     title: "Graphic Designer",
     icon: creator,
@@ -74,12 +74,12 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
- 
+
   {
     name: "React JS",
     icon: reactjs,
   },
-  
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -88,7 +88,7 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
- 
+
   {
     name: "Three JS",
     icon: threejs,
@@ -109,8 +109,8 @@ const technologies = [
     name: "Augmented",
     icon: redux,
   },
-  
- 
+
+
 ];
 
 const experiences = [
@@ -140,20 +140,20 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  
+
 ];
 
 const testimonials = [
   {
     testimonial:
       "INTRODUCTION -Hello,My Name is Anany Tewari.I am from Lucknow, currently pursusing BTech from Kiet Group of Institutions.I did my schooling from CMS Kanpur road. My goal is to get a job in a reputed company and to achieve a good position where I can build my career and help the organization too. My hobbies are playing football. ",
-  
+
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "SKILLS - Web Developemnt(node.js, Express.js,mongoDB). AR/VR developer (Unity,C#,Vuforia,Webgl, Ar Core).  Experience -Frontend intern techmihirnaik.in company , Summer Internship on Web and Mobile Application Development . Management head in Vpaksh(college club). " ,
-   
+      "SKILLS - Web Developemnt(node.js, Express.js,mongoDB). AR/VR developer (Unity,C#,Vuforia,Webgl, Ar Core).  Experience -Frontend intern techmihirnaik.in company , Summer Internship on Web and Mobile Application Development . Management head in Vpaksh(college club). ",
+
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -181,10 +181,10 @@ const projects = [
         name: "C#",
         color: "pink-text-gradiant",
       },
-      
+
     ],
     image: carrent,
-    source_code_link: "https://github.com/strangecod/hackCBS",
+    source_code_link: "https://junglesafari.netlify.app/",
   },
   {
     name: "AR-Shopping",
@@ -203,21 +203,10 @@ const projects = [
         name: "javascript",
         color: "pink-text-gradient",
       },
-      {
-        name: "Node.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Expressjs",
-        color: "pink-text-gradient",
-      },
+    
     ],
     image: jobit,
-    source_code_link: "https://643d808d1694b518fe41d105--courageous-lebkuchen-c18142.netlify.app/ ",
+    source_code_link: "https://virtualtryon.netlify.app/",
   },
   {
     name: "Social-Media-Monetoring System",
